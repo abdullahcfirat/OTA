@@ -25,7 +25,7 @@ MQTT_PORT = 8883
 CLIENT_ID = "pico_w_client"
 
 
-OTA_URL = "https://raw.githubusercontent.com/argemirdev/OTA/main/code.py"
+OTA_URL = "https://raw.githubusercontent.com/abdullahcfira/OTA/main/code.py"
 
 
 DEVICE_ID = "1"  
