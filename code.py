@@ -16,11 +16,11 @@ import microcontroller
 
 
 # ---------- AYARLAR ----------
-WIFI_SSID = "MIRDEVOFFICE"
-WIFI_PASS = "mirdev4141"
-MQTT_BROKER = "4c45e5b50e51467e855e3a8f59db30b2.s1.eu.hivemq.cloud"
-MQTT_USER = "ANKAGLC"
-MQTT_PASS = "Argemirdev7"
+WIFI_SSID = ""
+WIFI_PASS = ""
+MQTT_BROKER = ""
+MQTT_USER = ""
+MQTT_PASS = ""
 MQTT_PORT = 8883
 CLIENT_ID = "pico_w_client"
 
